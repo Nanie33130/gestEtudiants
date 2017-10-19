@@ -1,0 +1,19 @@
+jeudi 19 octobre 2017, 10:58:22 (UTC+0200)
+  146 appli.cpp
+    0 bulletin.cpp
+   34 discipline.cpp
+   92 evaluation.cpp
+    9 main.cpp
+   10 note.cpp
+  255 section.cpp
+   73 student.cpp
+   99 appli.h
+   27 bulletin.h
+   56 discipline.h
+  127 evaluation.h
+   45 note.h
+  174 section.h
+   87 student.h
+ 1234 total
+nombre de méthodes : 98
+nombre de classes : 18
